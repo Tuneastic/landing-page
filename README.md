@@ -1,1 +1,1 @@
-# landing-page
+The Odin Project provided an exercize to test some HTML and CSS skills.They provided 2 images with examples on how the page should look and what styles to use.
